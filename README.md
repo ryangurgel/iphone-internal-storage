@@ -1,5 +1,8 @@
 # Arquivos do iPhone
 
-Cópia dos arquivos que o iPhone disponibiliza em **Internal Storage** pelo cabo USB.
+Cópia dos arquivos disponibilizados pelo iPhone em **Internal Storage** pelo cabo USB. As partes são publicadas conforme a transferência avança.
 
-Os arquivos ficam em **Releases**, divididos em partes para respeitar o limite por arquivo do GitHub. Cada ZIP preserva as pastas do iPhone e os bytes da mídia recebida pelo cabo. Baixe e extraia todos os ZIPs na mesma pasta. O manifesto da release lista o tamanho e o SHA-256 de cada arquivo.
+- [Baixar em ZIP](https://github.com/ryangurgel/iphone-internal-storage/releases/tag/iphone-usb-backup). Extraia as partes na mesma pasta para reunir a estrutura original.
+- [Baixar arquivos avulsos](https://github.com/ryangurgel/iphone-internal-storage/releases). Abra a release **Arquivos avulsos** com o nome da pasta desejada e escolha o arquivo.
+
+Os ZIPs preservam os bytes da mídia. O manifesto da cópia completa lista o tamanho e o SHA-256 de cada arquivo.
