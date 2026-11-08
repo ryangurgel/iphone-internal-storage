@@ -1,6 +1,5 @@
 # Pra Duda
 
-Álbum do iPhone em qualidade original. A transferência é publicada por lotes.
+A pasta [Pra Duda](Pra%20Duda) contém 385 arquivos do álbum do iPhone em qualidade original, prontos para baixar individualmente.
 
-- [Arquivos na pasta Pra Duda](https://github.com/ryangurgel/iphone-internal-storage/tree/main/Pra%20Duda). A pasta contém os arquivos de até 100 MiB.
-- [ZIPs do álbum](https://github.com/ryangurgel/iphone-internal-storage/releases/tag/pra-duda). Extraia todas as partes na mesma pasta para reunir o álbum, incluindo os vídeos maiores que 100 MiB. O manifesto lista o tamanho e o SHA-256 de cada arquivo.
+Os 76 vídeos acima de 100 MiB estão pendentes.
