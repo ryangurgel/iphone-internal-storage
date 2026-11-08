@@ -1,8 +1,6 @@
-# Arquivos do iPhone
+# Pra Duda
 
-Cópia dos arquivos disponibilizados pelo iPhone em **Internal Storage** pelo cabo USB. As partes são publicadas conforme a transferência avança.
+Álbum do iPhone em qualidade original. A transferência é publicada por lotes.
 
-- [Baixar em ZIP](https://github.com/ryangurgel/iphone-internal-storage/releases/tag/iphone-usb-backup). Extraia as partes na mesma pasta para reunir a estrutura original.
-- [Baixar arquivos avulsos](https://github.com/ryangurgel/iphone-internal-storage/releases). Abra a release **Arquivos avulsos** com o nome da pasta desejada e escolha o arquivo.
-
-Os ZIPs preservam os bytes da mídia. O manifesto da cópia completa lista o tamanho e o SHA-256 de cada arquivo.
+- [Arquivos na pasta Pra Duda](https://github.com/ryangurgel/iphone-internal-storage/tree/main/Pra%20Duda). A pasta contém os arquivos de até 100 MiB.
+- [ZIPs do álbum](https://github.com/ryangurgel/iphone-internal-storage/releases/tag/pra-duda). Extraia todas as partes na mesma pasta para reunir o álbum, incluindo os vídeos maiores que 100 MiB. O manifesto lista o tamanho e o SHA-256 de cada arquivo.
